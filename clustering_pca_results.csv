@@ -1,0 +1,16 @@
+method,n_clusters,linkage_strategy,silhouette
+k-means,3,,0.5369958281517029
+gaussian-mixture,3,,0.5326616168022156
+agglomerative-clustering,3,ward,0.5055122971534729
+agglomerative-clustering,3,complete,0.4972925186157226
+gaussian-mixture,5,,0.4279047846794128
+k-means,5,,0.4208238422870636
+agglomerative-clustering,5,complete,0.3675808310508728
+k-means,10,,0.3524090349674225
+agglomerative-clustering,5,ward,0.35051033
+gaussian-mixture,10,,0.3296613097190857
+agglomerative-clustering,10,ward,0.3048986196517944
+agglomerative-clustering,3,single,0.3046661019325256
+agglomerative-clustering,10,complete,0.2555758655071258
+agglomerative-clustering,5,single,0.2187491506338119
+agglomerative-clustering,10,single,-0.2087521255016327

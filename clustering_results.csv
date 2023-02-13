@@ -1,0 +1,16 @@
+tsne_perplexity,tsne_metric,method,n_clusters,linkage_strategy,silhouette
+30,cosine,k-means,10,,0.4143805801868438
+30,cosine,k-means,3,,0.4114136099815368
+30,cosine,k-means,5,,0.4077346324920654
+30,cosine,agglomerative-clustering,3,ward,0.40436652302742
+30,cosine,gaussian-mixture,3,,0.3956670761108398
+30,cosine,gaussian-mixture,10,,0.3948860466480255
+30,cosine,agglomerative-clustering,5,ward,0.3681539893150329
+30,cosine,agglomerative-clustering,10,ward,0.3655932247638702
+30,cosine,agglomerative-clustering,10,complete,0.3640614151954651
+30,cosine,agglomerative-clustering,3,complete,0.3534291982650757
+30,cosine,gaussian-mixture,5,,0.351382166147232
+30,cosine,agglomerative-clustering,5,complete,0.3070538938045501
+30,cosine,agglomerative-clustering,3,single,0.0622071288526058
+30,cosine,agglomerative-clustering,5,single,-0.0013274906668812
+30,cosine,agglomerative-clustering,10,single,-0.375369668006897
